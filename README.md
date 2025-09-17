@@ -12,6 +12,4 @@ CRUD | Create / Read / Update / Delete
 5. Completed / Uncompleted
 6. Locally (Remember your To-Do's) | LocalStorage
 
-This OOP To-Do Project is Totally Free!
-
 JS OOP To-Do List.
